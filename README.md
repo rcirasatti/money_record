@@ -1,4 +1,4 @@
-# cause_money_record
+# money_record
 
 A new Flutter project.
 
